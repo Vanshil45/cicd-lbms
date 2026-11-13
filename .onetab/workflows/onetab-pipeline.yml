@@ -26,7 +26,6 @@ jobs:
         run: npm run lint --if-present
 
       - name: Test
-        # No test script exists yet; this runs automatically once one is added to package.json.
         run: npm test --if-present
 
       - name: Build
