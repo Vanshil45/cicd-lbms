@@ -5,7 +5,7 @@ A responsive frontend-only library management dashboard built with React .
 ## Features
 - Dashboard overview with inventory, borrowed books, members, and overdue metrics
 - Search books by title, author, or ISBN
-- Filter by category
+- Filter by category  
 - Add books with a modal form
 - Issue available books from the inventory
 - Mark loans as returned and update available copy counts
