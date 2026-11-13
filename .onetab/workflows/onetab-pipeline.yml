@@ -50,7 +50,6 @@ jobs:
         run: npm audit --audit-level=high
 
       - name: Deployment to Staging
-        # The app builds to static files in dist/. Replace with your staging host's deploy command.
         run: echo "Deploy dist/ to staging (e.g. S3, Netlify, Vercel, Nginx) goes here..."
 
       - name: Deployment to Production
