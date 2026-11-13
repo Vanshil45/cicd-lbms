@@ -1,6 +1,6 @@
 # PageTurn — React Library Management Demo
 
-A responsive frontend-only library management dashboard built with React + Vite.
+A responsive frontend-only library management dashboard built with React .
 
 ## Features
 - Dashboard overview with inventory, borrowed books, members, and overdue metrics
