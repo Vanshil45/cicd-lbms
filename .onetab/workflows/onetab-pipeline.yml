@@ -1,4 +1,4 @@
-name: Starter Pipeline
+ name: Starter Pipeline
 repoFullName: Vanshil45-Vanshil45/cicd-lbms
  
 on:
